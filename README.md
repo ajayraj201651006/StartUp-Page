@@ -1,3 +1,3 @@
 # StartUp-Page
 
-This is a simple startup page.
+This is a cool startup page.
